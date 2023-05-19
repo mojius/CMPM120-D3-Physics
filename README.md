@@ -10,6 +10,7 @@ Process requirements:
 	-**Where to play your game (a link to your deployed game)**
 		-You can play it [here.](https://mojius.github.io/CMPM120-D3-Physics)
 
+
 	-**How your design satisfies the experience requirements below**
 		-**The game uses both continuous and discrete inputs from the player. **
 			-It has discrete inputs, like pressing a certain key that I will not name to progress (you'll know if you play it). Continuous-type inputs are collected in the platforming levels.
